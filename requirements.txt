@@ -1,7 +1,10 @@
 pandas>=2.0
 numpy>=1.26
 scikit-learn>=1.4
+scipy>=1.11
 streamlit>=1.40
+streamlit-folium>=0.20
+folium>=0.16
 plotly>=5.20
 pydeck>=0.9
 shapely>=2.0
