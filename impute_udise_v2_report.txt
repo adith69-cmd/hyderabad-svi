@@ -1,0 +1,100 @@
+======================================================================
+KNN v2 + GradientBoosting — with spatial features
+======================================================================
+target                                           n    KNN R2    GBM R2    GBM MAE
+--------------------------------------------------------------------------------
+udise2021_22_school_count                       87    -0.287    -0.193     15.808
+udise2021_22_student_count                      87    -0.304    -0.248   5837.117
+udise2021_22_teacher_count                      87    -0.294    -0.082    228.487
+udise2021_22_classroom_count                    87    -0.347    -0.029    190.507
+udise2021_22_electricity_share                  87    -0.250    -0.382      0.029
+udise2021_22_library_share                      87    -0.122    -0.200      0.109
+udise2021_22_playground_share                   87    -0.037    -0.073      0.138
+udise2021_22_medical_checkup_share              87    -0.115    -0.150      0.192
+udise2021_22_ramp_share                         87    -0.318    -0.205      0.178
+udise2021_22_internet_share                     87    -0.131    -0.300      0.153
+udise2021_22_computer_desktop_share             87    -0.344    -0.395      2.204
+udise2021_22_boundary_wall_share                87    -0.106    -0.261      0.263
+udise2021_22_government_school_share            87    -0.320    -0.382      0.105
+udise2021_22_student_teacher_ratio              87    -0.015    -0.224      3.813
+udise2023_24_school_count                       91    -0.265    -0.252     15.968
+udise2023_24_student_count                      91    -0.281    -0.427  11864.026
+udise2023_24_teacher_count                      91    -0.303    -0.104    241.131
+udise2023_24_classroom_count                    91    -0.299    -0.315    241.101
+udise2023_24_electricity_share                  91    -0.171    -0.330      0.029
+udise2023_24_drinking_water_share               91    -0.143    -0.157      0.596
+udise2023_24_library_share                      91    -0.155    -0.219      0.116
+udise2023_24_playground_share                   91    -0.177    -0.438      0.148
+udise2023_24_medical_checkup_share              91    -0.277    -0.321      0.137
+udise2023_24_ramp_share                         91    -0.165    -0.068      0.162
+udise2023_24_internet_share                     91    -0.291    -0.255      0.122
+udise2023_24_computer_desktop_share             91    -0.022    -0.248      3.068
+udise2023_24_ict_lab_share                      91    -0.100    -0.760      0.735
+udise2023_24_boundary_wall_share                91    -0.040    -0.182      0.266
+udise2023_24_government_school_share            91    -0.181    -0.483      0.123
+udise2023_24_student_teacher_ratio              91    -0.020     0.048      9.792
+udise2021_22_school_count_missing              150     0.728     0.567      0.190
+udise2021_22_student_count_missing             150     0.728     0.567      0.190
+udise2021_22_teacher_count_missing             150     0.728     0.567      0.190
+udise2021_22_classroom_count_missing           150     0.728     0.567      0.190
+udise2021_22_electricity_share_missing         150     0.728     0.567      0.190
+udise2021_22_library_share_missing             150     0.728     0.567      0.190
+udise2021_22_playground_share_missing          150     0.728     0.567      0.190
+udise2021_22_medical_checkup_share_missing     150     0.728     0.567      0.190
+udise2021_22_ramp_share_missing                150     0.728     0.567      0.190
+udise2021_22_internet_share_missing            150     0.728     0.567      0.190
+udise2021_22_computer_desktop_share_missing    150     0.728     0.567      0.190
+udise2021_22_boundary_wall_share_missing       150     0.728     0.567      0.190
+udise2021_22_government_school_share_missing   150     0.728     0.567      0.190
+udise2021_22_student_teacher_ratio_missing     150     0.728     0.567      0.190
+udise2023_24_school_count_missing              150     0.651     0.421      0.228
+udise2023_24_student_count_missing             150     0.651     0.421      0.228
+udise2023_24_teacher_count_missing             150     0.651     0.421      0.228
+udise2023_24_classroom_count_missing           150     0.651     0.421      0.228
+udise2023_24_electricity_share_missing         150     0.651     0.421      0.228
+udise2023_24_drinking_water_share_missing      150     0.651     0.421      0.228
+udise2023_24_library_share_missing             150     0.651     0.421      0.228
+udise2023_24_playground_share_missing          150     0.651     0.421      0.228
+udise2023_24_medical_checkup_share_missing     150     0.651     0.421      0.228
+udise2023_24_ramp_share_missing                150     0.651     0.421      0.228
+udise2023_24_internet_share_missing            150     0.651     0.421      0.228
+udise2023_24_computer_desktop_share_missing    150     0.651     0.421      0.228
+udise2023_24_ict_lab_share_missing             150     0.651     0.421      0.228
+udise2023_24_boundary_wall_share_missing       150     0.651     0.421      0.228
+udise2023_24_government_school_share_missing   150     0.651     0.421      0.228
+udise2023_24_student_teacher_ratio_missing     150     0.651     0.421      0.228
+
+======================================================================
+Targets with GBM R2 >= 0.40: 30
+  udise2021_22_school_count_missing  R2=0.567
+  udise2021_22_student_count_missing  R2=0.567
+  udise2021_22_teacher_count_missing  R2=0.567
+  udise2021_22_classroom_count_missing  R2=0.567
+  udise2021_22_electricity_share_missing  R2=0.567
+  udise2021_22_library_share_missing  R2=0.567
+  udise2021_22_playground_share_missing  R2=0.567
+  udise2021_22_medical_checkup_share_missing  R2=0.567
+  udise2021_22_ramp_share_missing  R2=0.567
+  udise2021_22_internet_share_missing  R2=0.567
+  udise2021_22_computer_desktop_share_missing  R2=0.567
+  udise2021_22_boundary_wall_share_missing  R2=0.567
+  udise2021_22_government_school_share_missing  R2=0.567
+  udise2021_22_student_teacher_ratio_missing  R2=0.567
+  udise2023_24_school_count_missing  R2=0.421
+  udise2023_24_student_count_missing  R2=0.421
+  udise2023_24_teacher_count_missing  R2=0.421
+  udise2023_24_classroom_count_missing  R2=0.421
+  udise2023_24_electricity_share_missing  R2=0.421
+  udise2023_24_drinking_water_share_missing  R2=0.421
+  udise2023_24_library_share_missing  R2=0.421
+  udise2023_24_playground_share_missing  R2=0.421
+  udise2023_24_medical_checkup_share_missing  R2=0.421
+  udise2023_24_ramp_share_missing  R2=0.421
+  udise2023_24_internet_share_missing  R2=0.421
+  udise2023_24_computer_desktop_share_missing  R2=0.421
+  udise2023_24_ict_lab_share_missing  R2=0.421
+  udise2023_24_boundary_wall_share_missing  R2=0.421
+  udise2023_24_government_school_share_missing  R2=0.421
+  udise2023_24_student_teacher_ratio_missing  R2=0.421
+
+Conclusion: Imputation is viable for the passing targets.

@@ -1,0 +1,22 @@
+======================================================================
+MLP vs Gradient Boosting — SVI prediction
+======================================================================
+
+MLP architecture: 2 hidden layers (32, 16), ReLU, adam, 500 max iter
+
+svi_2011      MLP CV R2 =  0.942   CV MAE =   3.92
+svi_2030      MLP CV R2 =  0.955   CV MAE =   3.87
+
+----------------------------------------------------------------------
+Comparison:
+target           GBM R2     MLP R2    GBM MAE    MLP MAE
+----------------------------------------------------------------------
+svi_2011          0.930      0.942       4.32       3.92
+svi_2030          0.927      0.955       4.64       3.87
+
+Saved mlp_models.pkl
+
+======================================================================
+Conclusion:
+MLP outperforms GBM on both targets. Surprising for n=150 tabular
+data but worth reporting.

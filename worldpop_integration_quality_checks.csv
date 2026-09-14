@@ -1,0 +1,7 @@
+check,expected,observed,status
+master_ward_count,150,150,PASS
+worldpop_2015_observed_wards,145,145,PASS
+worldpop_2018_observed_wards,145,145,PASS
+worldpop_missing_geometry_wards,5,5,PASS
+worldpop_zero_values_used_for_missing,0,0,INFO
+worldpop_negative_values,0,0,PASS

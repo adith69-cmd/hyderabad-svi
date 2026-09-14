@@ -1,0 +1,16 @@
+{
+  "unique_wards": 150,
+  "rows_raw": 155,
+  "duplicate_ward_rows": 5,
+  "missing_wards": [],
+  "wards_with_multiple_source_rows": [
+    2,
+    9,
+    17,
+    134,
+    148
+  ],
+  "population_total": 6731790.0,
+  "population_min": 17601.0,
+  "population_max": 93141.0
+}

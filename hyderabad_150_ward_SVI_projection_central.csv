@@ -1,0 +1,151 @@
+ward_id,ward_name,svi_2011,band_2011,pressure_zscore,pressure_confidence,pressure_data_coverage,svi_2025_central,svi_2025_lower,svi_2025_upper,band_2025,svi_2027_central,svi_2027_lower,svi_2027_upper,band_2027,svi_2030_central,svi_2030_lower,svi_2030_upper,band_2030,drift_2011_to_2030,drift_band_change,band_2011_percentile,band_2011_absolute,drift_band_change_absolute,svi_2030_saturated,low_confidence_flag
+47,Nawab Saheb Kunta,71.59068518021434,red,2.0652204558907528,high,full,82.66,79.85,85.57,red,84.38,81.1,87.78,red,87.02,83.02,91.21,red,15.42931481978566,False,red,red,False,False,False
+48,Shalibanda,86.03085311821755,red,1.7010517784962498,high,full,96.86,93.55,100.0,red,98.52,94.68,100.0,red,100.0,96.4,100.0,red,13.96914688178245,False,red,red,False,True,False
+34,Talab Chanchalam,43.59999704543002,red,2.8358558015753537,high,full,53.1,51.3,54.96,yellow,54.62,52.5,56.81,yellow,56.97,54.36,59.7,yellow,13.370002954569976,True,red,yellow,False,False,False
+72,Asif Nagar,55.79434621190427,red,2.1316872198970773,high,full,64.72,62.52,67.0,red,66.11,63.54,68.77,red,68.25,65.11,71.53,red,12.45565378809573,False,red,yellow,True,False,False
+44,Uppuguda,84.1984381574891,red,1.3279699608936206,high,full,92.37,89.21,95.64,red,93.6,89.95,97.39,red,95.48,91.07,100.0,red,11.28156184251091,False,red,red,False,False,False
+56,Kishanbagh,77.04853536541036,red,1.4146710389200807,high,full,85.04,82.13,88.04,red,86.25,82.88,89.74,red,88.09,84.03,92.34,red,11.041464634589644,False,red,red,False,False,False
+39,Santhosh Nagar,87.05480033290863,red,1.132188665928123,high,full,94.21,90.99,97.55,red,95.28,91.56,99.14,red,96.91,92.43,100.0,red,9.85519966709137,False,red,red,False,False,False
+23,Gaddiannaram,63.46909795336673,red,1.5244080650695295,high,full,70.59,68.18,73.08,red,71.67,68.88,74.57,red,73.32,69.94,76.85,red,9.850902046633266,False,red,red,False,False,False
+54,Jahanuma,64.24801600179609,red,1.4615730164364966,high,full,71.14,68.71,73.65,red,72.19,69.37,75.11,red,73.78,70.38,77.34,red,9.531983998203913,False,red,red,False,False,False
+37,Kurmaguda,53.21065805634374,red,1.6138511082829068,high,full,59.55,57.51,61.65,yellow,60.51,58.16,62.96,red,61.99,59.13,64.98,red,8.779341943656263,False,red,yellow,True,False,False
+70,Mehdipatnam,69.63442081219291,red,1.2475460714031446,high,full,75.97,73.37,78.65,red,76.92,73.92,80.03,red,78.37,74.75,82.15,red,8.73557918780709,False,red,red,False,False,False
+31,Rein Bazar,62.38436857967638,red,1.2266326964665648,high,full,67.96,65.63,70.36,red,68.8,66.11,71.58,red,70.07,66.83,73.45,red,7.685631420323617,False,red,red,False,False,False
+64,Dattatreya Nagar,55.05533946935907,red,1.3544389521220646,high,full,60.51,58.44,62.65,red,61.33,58.94,63.82,red,62.59,59.7,65.61,red,7.534660530640934,False,red,yellow,True,False,False
+29,Chawni,65.3631822060597,red,1.138192531834751,high,full,70.77,68.34,73.27,red,71.58,68.78,74.48,red,72.8,69.44,76.32,red,7.436817793940293,False,red,red,False,False,False
+25,Moosarambagh,66.58283839773247,red,1.007449144089618,high,full,71.44,68.99,73.96,red,72.16,69.34,75.08,red,73.25,69.87,76.79,red,6.667161602267527,False,red,red,False,False,False
+46,Falaknuma,64.54543818387911,red,1.0054513142637391,high,full,69.24,66.87,71.69,red,69.94,67.21,72.77,red,71.0,67.72,74.43,red,6.454561816120886,False,red,red,False,False,False
+35,Gowlipura,56.493918378226624,red,0.9787812357046782,high,full,60.49,58.42,62.63,red,61.08,58.7,63.56,red,61.98,59.12,64.98,red,5.486081621773373,False,red,yellow,True,False,False
+102,Rahmath Nagar,36.56663934247633,yellow,1.4648526501558925,high,full,40.5,39.12,41.93,yellow,41.1,39.49,42.76,yellow,42.01,40.07,44.03,yellow,5.4433606575236695,False,yellow,yellow,False,False,False
+52,Puranapool,43.26058431959793,red,1.2201977237336403,high,full,47.11,45.49,48.77,yellow,47.68,45.82,49.61,yellow,48.56,46.32,50.91,yellow,5.2994156804020704,True,red,yellow,False,False,False
+53,Doodh Bowli,35.17870899961121,yellow,1.463964529070159,high,full,38.96,37.63,40.34,yellow,39.53,37.99,41.13,yellow,40.41,38.54,42.36,yellow,5.2312910003887865,False,yellow,yellow,False,False,False
+24,Saidabad,67.81063469612425,red,0.7634837398766253,high,full,71.53,69.07,74.06,red,72.07,69.25,75.0,red,72.9,69.53,76.43,red,5.089365303875752,False,red,red,False,False,False
+22,Chaitanyapuri,68.58888362743684,red,0.7488287977554536,medium,population_only,72.27,68.34,76.41,red,72.82,68.31,77.6,red,73.64,68.26,79.42,red,5.051116372563158,False,red,red,False,False,False
+84,Bagh Amberpet,46.90842388010578,red,1.0225275829530651,high,full,50.38,48.65,52.16,yellow,50.9,48.91,52.96,yellow,51.68,49.29,54.18,yellow,4.77157611989422,True,red,yellow,False,False,False
+126,Jagathgirigutta,34.35870622053157,yellow,1.3217428606803272,medium,population_only,37.68,35.64,39.83,yellow,38.18,35.82,40.68,yellow,38.94,36.1,41.99,yellow,4.5812937794684245,False,yellow,yellow,False,False,False
+40,Riyasat Nagar,48.76797889121786,red,0.9293625671614378,high,full,52.04,50.25,53.88,yellow,52.52,50.47,54.65,yellow,53.26,50.8,55.83,yellow,4.49202110878214,True,red,yellow,False,False,False
+76,Mallepally,33.97705489011329,yellow,1.0756152894879536,high,full,36.63,35.37,37.92,yellow,37.02,35.58,38.52,yellow,37.62,35.88,39.44,yellow,3.6429451098867114,False,yellow,yellow,False,False,False
+33,Moghalpura,26.707543459025928,yellow,1.2277389456226209,high,full,29.1,28.1,30.13,green,29.46,28.31,30.65,green,30.0,28.62,31.45,yellow,3.2924565409740723,False,yellow,green,True,False,False
+103,Borabanda,18.068262967223465,green,1.7058059194524018,high,full,20.35,19.65,21.07,green,20.7,19.89,21.53,green,21.23,20.25,22.25,green,3.161737032776536,False,green,green,False,False,False
+32,Patthergatti,30.26099353464391,yellow,1.0313634009799733,high,full,32.52,31.41,33.67,yellow,32.86,31.57,34.19,yellow,33.37,31.83,34.98,yellow,3.1090064653560887,False,yellow,yellow,False,False,False
+130,Subash Nagar,19.302317114008787,green,1.556116772492067,medium,population_only,21.51,20.35,22.74,green,21.85,20.5,23.28,green,22.36,20.74,24.11,green,3.0576828859912126,False,green,green,False,False,False
+146,Boudha Nagar,13.14755833226356,green,1.9925054961413744,high,full,15.1,14.59,15.64,green,15.41,14.81,16.03,green,15.87,15.14,16.64,green,2.7224416677364385,False,green,green,False,False,False
+63,Mangalhat,79.11473297610773,red,0.3318093496899421,high,full,80.97,78.19,83.85,red,81.24,78.06,84.55,red,81.65,77.86,85.61,red,2.535267023892274,False,red,red,False,False,False
+21,Kothapet,54.680740790110846,red,0.4543386486826762,medium,population_only,56.45,53.37,59.68,yellow,56.7,53.19,60.43,yellow,57.09,52.91,61.58,yellow,2.409259209889157,True,red,yellow,False,False,False
+38,IS Sadan,50.903382278256245,red,0.4328569270634345,high,full,52.47,50.66,54.33,yellow,52.69,50.63,54.84,yellow,53.04,50.58,55.61,yellow,2.136617721743754,True,red,yellow,False,False,False
+9,Ramanthapur,24.596846231804847,yellow,0.8664717260671129,medium,population_only,26.13,24.71,27.63,green,26.36,24.73,28.09,green,26.7,24.75,28.8,green,2.1031537681951527,True,yellow,green,False,False,False
+85,Adikmet,21.31739578000518,yellow,0.9878203680386444,high,full,22.84,22.06,23.65,green,23.07,22.16,24.0,green,23.41,22.33,24.54,green,2.0926042199948185,True,yellow,green,False,False,False
+111,Bharati Nagar,27.75373575427334,yellow,0.6479893373604294,medium,population_only,29.04,27.46,30.7,green,29.23,27.42,31.15,green,29.51,27.36,31.83,green,1.756264245726662,True,yellow,green,False,False,False
+131,Quthbullapur,21.53230215035172,yellow,0.7968932978788363,medium,population_only,22.77,21.53,24.07,green,22.95,21.53,24.45,green,23.22,21.53,25.04,green,1.6876978496482806,True,yellow,green,False,False,False
+20,RK Puram,17.312657445883733,green,0.9644110007938708,medium,population_only,18.52,17.51,19.58,green,18.7,17.54,19.92,green,18.97,17.59,20.46,green,1.6573425541162656,False,green,green,False,False,False
+36,Lalithabagh,60.9936752399674,red,0.2493068256822851,high,full,62.07,59.93,64.27,red,62.22,59.78,64.75,red,62.45,59.56,65.49,red,1.4563247600326008,False,red,red,False,False,False
+86,Musheerabad,11.418124454267833,green,1.0355921420873242,high,full,12.27,11.85,12.71,green,12.4,11.92,12.9,green,12.6,12.01,13.2,green,1.1818755457321668,False,green,green,False,False,False
+127,Rangareddy Nagar,15.903728398729708,green,0.6944524879063165,medium,population_only,16.69,15.79,17.65,green,16.81,15.77,17.92,green,16.99,15.75,18.32,green,1.0862716012702904,False,green,green,False,False,False
+28,Azampura,53.26153041106591,red,0.1995536480316407,high,full,54.01,52.15,55.93,yellow,54.12,52.0,56.32,yellow,54.28,51.76,56.91,yellow,1.018469588934089,True,red,yellow,False,False,False
+122,Vivekananda Nagar Colony,17.80929141732565,green,0.5669783715850022,medium,population_only,18.53,17.52,19.59,green,18.63,17.48,19.86,green,18.79,17.42,20.27,green,0.9807085826743496,False,green,green,False,False,False
+81,Nallakunta,7.769430090742621,green,1.1675504862218826,high,full,8.43,8.14,8.73,green,8.53,8.19,8.87,green,8.68,8.28,9.1,green,0.9105699092573784,False,green,green,False,False,False
+145,Seethaphalmandi,12.207832932801546,green,0.6589686916186875,high,full,12.78,12.34,13.24,green,12.87,12.36,13.39,green,13.0,12.39,13.62,green,0.792167067198454,False,green,green,False,False,False
+27,Akbarbagh,56.956197126707295,red,0.1430106944756923,high,full,57.53,55.55,59.57,yellow,57.61,55.35,59.96,yellow,57.74,55.06,60.54,yellow,0.7838028732927071,True,red,yellow,False,False,False
+73,Vijay Nagar Colony,24.26258956311994,yellow,0.3115047509139297,high,full,24.8,23.94,25.68,green,24.87,23.9,25.89,green,24.99,23.83,26.2,green,0.72741043688006,True,yellow,green,False,False,False
+117,Moosapet,6.384451177722012,green,1.077366052720513,medium,population_only,6.88,6.51,7.28,green,6.96,6.53,7.41,green,7.07,6.55,7.62,green,0.6855488222779886,False,green,green,False,False,False
+147,Bansilapet,17.53007251690914,green,0.3816116608958022,high,full,18.0,17.39,18.64,green,18.07,17.36,18.81,green,18.18,17.33,19.06,green,0.6499274830908597,False,green,green,False,False,False
+83,Amberpet,34.01718722014084,yellow,0.1687267494379467,high,full,34.42,33.24,35.64,yellow,34.48,33.13,35.88,yellow,34.57,32.96,36.24,yellow,0.5528127798591598,False,yellow,yellow,False,False,False
+88,Bholakpur,2.762742622896244,green,1.8469382196141768,high,full,3.14,3.03,3.25,green,3.2,3.08,3.33,green,3.29,3.14,3.45,green,0.5272573771037559,False,green,green,False,False,False
+121,Kukatpally,25.66790810753259,yellow,0.2101305426171462,medium,population_only,26.05,24.63,27.54,green,26.1,24.48,27.82,green,26.19,24.27,28.25,green,0.5220918924674116,True,yellow,green,False,False,False
+96,Yousufguda,39.82214631865089,yellow,0.1058633633407602,high,full,40.12,38.74,41.54,yellow,40.16,38.58,41.8,yellow,40.22,38.36,42.18,yellow,0.3978536813491118,False,yellow,yellow,False,False,False
+80,Kachiguda,19.42849792452408,yellow,0.1850218053549822,high,full,19.68,19.0,20.38,green,19.72,18.94,20.52,green,19.77,18.86,20.73,green,0.341502075475919,True,yellow,green,False,False,False
+17,Champapet,10.119797915818294,green,0.2862280859610283,medium,population_only,10.32,9.76,10.92,green,10.35,9.71,11.04,green,10.4,9.64,11.22,green,0.2802020841817061,False,green,green,False,False,False
+30,Dabeerpura,45.38405832109515,red,0.0634785470297453,high,full,45.59,44.02,47.21,yellow,45.62,43.82,47.47,yellow,45.66,43.54,47.88,yellow,0.2759416789048501,True,red,yellow,False,False,False
+12,Mansoorabad,26.841117123806374,yellow,0.0946510927359304,medium,population_only,27.02,25.55,28.57,green,27.05,25.37,28.83,green,27.08,25.1,29.22,green,0.2388828761936245,True,yellow,green,False,False,False
+62,Ziaguda,44.16434789047906,red,0.0518968249033311,high,full,44.33,42.8,45.9,yellow,44.35,42.61,46.16,yellow,44.38,42.32,46.54,yellow,0.2156521095209456,True,red,yellow,False,False,False
+93,Banjara Hills,8.24107584819368,green,0.2633900483903478,high,full,8.39,8.11,8.69,green,8.42,8.09,8.76,green,8.45,8.06,8.86,green,0.20892415180632,False,green,green,False,False,False
+87,Ramnagar,2.7051762558043446,green,0.7424792276464005,high,full,2.85,2.75,2.95,green,2.87,2.76,2.99,green,2.9,2.77,3.04,green,0.1948237441956553,False,green,green,False,False,False
+71,Gudimalkapur,51.82546600577277,red,0.038654445441875,high,full,51.97,50.18,53.81,yellow,51.99,49.95,54.1,yellow,52.02,49.6,54.54,yellow,0.1945339942272355,True,red,yellow,False,False,False
+15,Vanasthalipuram,12.480989556805442,green,0.1311293812205049,medium,population_only,12.6,11.91,13.32,green,12.61,11.83,13.44,green,12.64,11.71,13.63,green,0.1590104431945587,False,green,green,False,False,False
+95,Jubilee Hills,10.16211106582204,green,0.0759442611884154,high,full,10.22,9.86,10.58,green,10.22,9.82,10.64,green,10.24,9.76,10.73,green,0.0778889341779596,False,green,green,False,False,False
+100,Sanath Nagar,14.7939148502979,green,0.0230449450488361,high,full,14.82,14.31,15.34,green,14.82,14.24,15.43,green,14.83,14.14,15.55,green,0.0360851497020995,False,green,green,False,False,False
+18,Lingojiguda,20.463149965933763,yellow,0.0157130745260558,medium,population_only,20.49,19.37,21.66,green,20.49,19.22,21.84,green,20.49,18.99,22.11,green,0.0268500340662356,True,yellow,green,False,False,False
+148,Ramgopalpet,20.97904794778243,yellow,0.0044675574935337,high,full,20.99,20.26,21.73,green,20.99,20.16,21.84,green,20.99,20.01,22.01,green,0.0109520522175685,True,yellow,green,False,False,False
+141,Gautham Nagar,0.0,green,0.7499738387398407,medium,population_only,0.0,0.0,0.0,green,0.0,0.0,0.0,green,0.0,0.0,0.0,green,0.0,False,green,green,False,False,False
+43,Chandrayangutta,100.0,red,0.4678092252598791,high,full,100.0,99.77,100.0,red,100.0,99.74,100.0,red,100.0,99.69,100.0,red,0.0,False,red,red,False,True,False
+137,Vinayak Nagar,8.644771782065238,green,-0.0237626512984603,medium,population_only,8.63,8.16,9.13,green,8.63,8.09,9.2,green,8.63,7.99,9.31,green,-0.0147717820652371,False,green,green,False,False,False
+89,Gandhinagar,12.619273413964455,green,-0.0397458331221889,high,full,12.58,12.15,13.03,green,12.58,12.09,13.09,green,12.57,11.99,13.18,green,-0.049273413964455,False,green,green,False,False,False
+135,Venkatapuram,13.51242378072557,green,-0.061215478116265,medium,population_only,13.45,12.72,14.23,green,13.45,12.61,14.33,green,13.43,12.45,14.49,green,-0.0824237807255698,False,green,green,False,False,False
+6,Nacharam,16.538931170534777,green,-0.0590221287329923,medium,population_only,16.47,15.57,17.42,green,16.46,15.44,17.55,green,16.45,15.24,17.74,green,-0.0889311705347779,False,green,green,False,False,False
+97,Somajiguda,5.713789420896817,green,-0.2148345909592047,high,full,5.63,5.43,5.83,green,5.62,5.4,5.85,green,5.6,5.34,5.87,green,-0.1137894208968175,False,green,green,False,False,False
+134,Alwal,1.8761500238512907,green,-0.7004129217321453,medium,population_only,1.79,1.69,1.89,green,1.77,1.66,1.89,green,1.76,1.63,1.89,green,-0.1161500238512907,False,green,green,False,False,False
+101,Erragadda,19.20446431665971,green,-0.095373247413698,high,full,19.08,18.42,19.76,green,19.06,18.31,19.84,green,19.03,18.15,19.96,green,-0.1744643166597086,False,green,green,False,False,False
+16,Hasthinapuram,13.317476167785204,green,-0.1419084756440861,medium,population_only,13.19,12.47,13.94,green,13.17,12.35,14.04,green,13.14,12.17,14.18,green,-0.177476167785203,False,green,green,False,False,False
+104,Kondapur,7.067330747307282,green,-0.3333832947624257,medium,population_only,6.9,6.53,7.3,green,6.88,6.45,7.34,green,6.85,6.34,7.39,green,-0.2173307473072823,False,green,green,False,False,False
+113,Patancheruvu,21.88147546394043,yellow,-0.1116113499137126,medium,population_only,21.71,20.53,22.96,green,21.69,20.34,23.12,green,21.65,20.06,23.36,green,-0.2314754639404306,True,yellow,green,False,False,False
+150,Monda Market,16.341814374920414,green,-0.1503865519143823,high,full,16.17,15.61,16.75,green,16.15,15.51,16.8,green,16.11,15.36,16.89,green,-0.2318143749204146,False,green,green,False,False,False
+140,Malkajgiri,13.273932289664684,green,-0.186982570333785,medium,population_only,13.1,12.39,13.86,green,13.08,12.26,13.94,green,13.04,12.08,14.07,green,-0.2339322896646845,False,green,green,False,False,False
+79,Himayath Nagar,20.974928100883787,yellow,-0.1576344585207288,high,full,20.74,20.03,21.48,green,20.71,19.9,21.56,green,20.66,19.7,21.67,green,-0.3149281008837867,True,yellow,green,False,False,False
+98,Ameerpet,9.527142865662022,green,-0.3813302521334278,high,full,9.28,8.96,9.61,green,9.24,8.88,9.62,green,9.19,8.76,9.64,green,-0.3371428656620221,False,green,green,False,False,False
+59,Mailardevpally,20.58951540177557,yellow,-0.1801122593535108,medium,population_only,20.33,19.22,21.5,green,20.29,19.03,21.63,green,20.24,18.75,21.84,green,-0.349515401775573,True,yellow,green,False,False,False
+119,Old Bowenpally,34.7194404275402,yellow,-0.1220840225375822,medium,population_only,34.42,32.54,36.4,yellow,34.38,32.24,36.65,yellow,34.32,31.8,37.02,yellow,-0.399440427540199,False,yellow,yellow,False,False,False
+78,Gunfoundry,6.960032118674664,green,-0.7493443110156411,high,full,6.6,6.38,6.84,green,6.55,6.3,6.82,green,6.48,6.18,6.8,green,-0.4800321186746634,False,green,green,False,False,False
+58,Shastripuram,28.68921071845968,yellow,-0.180405344768324,medium,population_only,28.33,26.78,29.96,green,28.28,26.52,30.14,green,28.2,26.13,30.43,green,-0.489210718459681,True,yellow,green,False,False,False
+138,Moula Ali,7.4954029904765616,green,-0.7271095077317318,medium,population_only,7.12,6.73,7.53,green,7.07,6.63,7.54,green,6.99,6.48,7.55,green,-0.5054029904765613,False,green,green,False,False,False
+50,Begum Bazar,40.19052230093796,yellow,-0.1392765677053707,high,full,39.8,38.43,41.22,yellow,39.75,38.18,41.37,yellow,39.66,37.82,41.59,yellow,-0.5305223009379603,False,yellow,yellow,False,False,False
+99,Vengal Rao Nagar,5.107012579321559,green,-1.2823679168242188,high,full,4.67,4.51,4.83,green,4.61,4.43,4.8,green,4.52,4.31,4.74,green,-0.5870125793215593,False,green,green,False,False,False
+132,Jeedimetla,3.5435291292938405,green,-2.1517589469283225,medium,population_only,3.05,2.88,3.22,green,2.98,2.79,3.18,green,2.89,2.67,3.12,green,-0.6535291292938403,False,green,green,False,False,False
+11,Nagole,9.537590924310026,green,-0.7905185713537645,medium,population_only,9.02,8.53,9.54,green,8.95,8.39,9.54,green,8.85,8.2,9.55,green,-0.687590924310026,False,green,green,False,False,False
+94,Shaikpet,17.406634351778855,green,-0.4324772035351038,high,full,16.89,16.3,17.49,green,16.81,16.15,17.5,green,16.71,15.93,17.52,green,-0.6966343517788545,False,green,green,False,False,False
+118,Fateh Nagar,34.73595281677105,yellow,-0.227255162984858,medium,population_only,34.19,32.32,36.15,yellow,34.11,31.99,36.36,yellow,33.99,31.5,36.68,yellow,-0.7459528167710445,False,yellow,yellow,False,False,False
+55,Ramnaspura,71.18246414213033,red,-0.1114146402887969,high,full,70.63,68.2,73.14,red,70.55,67.78,73.43,red,70.43,67.16,73.86,red,-0.7524641421303215,False,red,red,False,False,False
+109,Hafeezpet,15.891136890618789,green,-0.5382408083741963,medium,population_only,15.3,14.47,16.18,green,15.22,14.27,16.23,green,15.1,13.99,16.29,green,-0.7911368906187892,False,green,green,False,False,False
+14,BN Reddy Nagar,21.15247131245172,yellow,-0.4028192029372512,medium,population_only,20.56,19.44,21.75,green,20.48,19.21,21.83,green,20.36,18.86,21.97,green,-0.7924713124517204,True,yellow,green,False,False,False
+5,Mallapur,20.364108719543964,yellow,-0.4416254076115704,medium,population_only,19.74,18.66,20.88,green,19.66,18.43,20.96,green,19.53,18.09,21.07,green,-0.8341087195439627,True,yellow,green,False,False,False
+120,Balanagar,29.78165210311819,yellow,-0.3040215811691819,medium,population_only,29.15,27.56,30.83,green,29.07,27.26,30.99,green,28.93,26.81,31.22,green,-0.851652103118191,True,yellow,green,False,False,False
+10,Uppal,19.199611830304487,green,-0.5745750317151831,medium,population_only,18.44,17.43,19.5,green,18.34,17.19,19.55,green,18.18,16.84,19.61,green,-1.0196118303044877,False,green,green,False,False,False
+77,Jambagh,43.44741579462619,red,-0.2515658435493526,high,full,42.69,41.22,44.21,yellow,42.58,40.91,44.32,yellow,42.42,40.45,44.48,yellow,-1.0274157946261866,True,red,yellow,False,False,False
+19,Saroornagar,23.3003115523946,yellow,-0.4762623821501535,medium,population_only,22.54,21.3,23.83,green,22.43,21.03,23.91,green,22.27,20.63,24.03,green,-1.0303115523946005,True,yellow,green,False,False,False
+82,Golnaka,30.01774766250485,yellow,-0.3732736978120915,high,full,29.24,28.23,30.29,green,29.13,27.99,30.32,green,28.97,27.62,30.38,green,-1.0477476625048503,True,yellow,yellow,True,False,False
+1,Kapra,12.680121752894491,green,-0.9836604016040716,medium,population_only,11.83,11.19,12.52,green,11.72,10.99,12.5,green,11.55,10.7,12.46,green,-1.130121752894491,False,green,green,False,False,False
+129,Suraram,21.92585195322159,yellow,-0.5599901558641079,medium,population_only,21.08,19.93,22.3,green,20.96,19.66,22.35,green,20.79,19.26,22.43,green,-1.1358519532215894,True,yellow,green,False,False,False
+67,Golconda,21.117158900647134,yellow,-0.5851514488763694,high,full,20.27,19.57,20.99,green,20.15,19.36,20.97,green,19.97,19.04,20.95,green,-1.1471589006471348,True,yellow,green,False,False,False
+3,Cherlapally,15.260463530416216,green,-0.8381377631619515,medium,population_only,14.39,13.6,15.22,green,14.27,13.38,15.21,green,14.09,13.05,15.21,green,-1.1704635304162156,False,green,green,False,False,False
+124,Alwyn Colony,19.76845848874945,yellow,-0.6509631812334818,medium,population_only,18.89,17.85,19.98,green,18.76,17.59,20.01,green,18.58,17.21,20.05,green,-1.1884584887494505,True,yellow,green,False,False,False
+51,Goshamahal,45.8591722706365,red,-0.2879092694074924,high,full,44.94,43.39,46.54,yellow,44.81,43.05,46.64,yellow,44.62,42.55,46.79,yellow,-1.2391722706365016,True,red,yellow,False,False,False
+139,East Anand Bagh,11.557507079625998,green,-1.2478173949549038,medium,population_only,10.59,10.01,11.2,green,10.46,9.8,11.15,green,10.26,9.5,11.08,green,-1.2975070796259978,False,green,green,False,False,False
+7,Chilka Nagar,22.05179015402969,yellow,-0.6819313187473569,medium,population_only,21.02,19.87,22.23,green,20.88,19.58,22.26,green,20.67,19.15,22.3,green,-1.3817901540296873,True,yellow,green,False,False,False
+2,Dr A S Rao Nagar,18.734283678123067,green,-0.8201467463420009,medium,population_only,17.69,16.72,18.71,green,17.54,16.45,18.7,green,17.33,16.05,18.7,green,-1.4042836781230683,False,green,green,False,False,False
+90,Kavadiguda,16.19239365863485,green,-0.9849690908031232,high,full,15.11,14.59,15.65,green,14.96,14.37,15.58,green,14.74,14.05,15.46,green,-1.4523936586348487,False,green,green,False,False,False
+123,Hydernagar,19.3376703234939,green,-0.823771619388124,medium,population_only,18.25,17.25,19.31,green,18.1,16.97,19.3,green,17.88,16.56,19.29,green,-1.4576703234939004,False,green,green,False,False,False
+116,Allapur,35.98419951051559,yellow,-0.4434074512372561,high,full,34.88,33.68,36.13,yellow,34.73,33.36,36.15,yellow,34.5,32.89,36.18,yellow,-1.4841995105155874,False,yellow,yellow,False,False,False
+133,Macha Bolarum,17.505839258584594,green,-0.964618482398706,medium,population_only,16.36,15.46,17.31,green,16.2,15.19,17.28,green,15.97,14.79,17.23,green,-1.535839258584593,False,green,green,False,False,False
+114,KPHB Colony,19.96869435148323,yellow,-0.854960642239448,medium,population_only,18.81,17.78,19.89,green,18.65,17.48,19.88,green,18.41,17.05,19.86,green,-1.5586943514832292,True,yellow,green,False,False,False
+49,Ghansi Bazar,44.152681396066775,red,-0.3778128855944646,high,full,43.0,41.52,44.53,yellow,42.84,41.15,44.59,yellow,42.59,40.61,44.67,yellow,-1.5626813960667718,True,red,yellow,False,False,False
+74,Ahmed Nagar,28.007367427191166,yellow,-0.6472238396491768,high,full,26.76,25.84,27.72,green,26.59,25.54,27.68,green,26.33,25.11,27.62,green,-1.677367427191168,True,yellow,green,False,False,False
+149,Begumpet,8.468095173322224,green,-2.309027503808858,high,full,7.2,6.95,7.46,green,7.03,6.75,7.32,green,6.79,6.47,7.13,green,-1.678095173322224,False,green,green,False,False,False
+128,Chintal,22.6982079591826,yellow,-0.8305096792744869,medium,population_only,21.41,20.24,22.65,green,21.24,19.91,22.64,green,20.97,19.43,22.63,green,-1.7282079591826012,True,yellow,green,False,False,False
+8,Habsiguda,12.640284345398712,green,-1.6055937614633926,medium,population_only,11.29,10.67,11.95,green,11.11,10.42,11.85,green,10.85,10.04,11.71,green,-1.790284345398712,False,green,green,False,False,False
+143,Tarnaka,28.16093587267949,yellow,-0.7628032837091792,high,full,26.69,25.77,27.65,green,26.49,25.45,27.57,green,26.19,24.97,27.47,green,-1.9709358726794903,True,yellow,green,False,False,False
+13,Hayath Nagar,22.86664227967571,yellow,-0.948309231773872,medium,population_only,21.39,20.22,22.63,green,21.19,19.87,22.6,green,20.89,19.35,22.55,green,-1.9766422796757084,True,yellow,green,False,False,False
+115,Balaji Nagar,27.046318929516605,yellow,-0.8279880216645622,medium,population_only,25.52,24.12,26.99,green,25.31,23.73,26.99,green,25.0,23.16,26.97,green,-2.0463189295166053,True,yellow,green,False,False,False
+125,Gajularamaram,44.819120029158114,red,-0.4994060610750858,medium,population_only,43.28,40.91,45.77,yellow,43.06,40.38,45.91,yellow,42.74,39.6,46.12,yellow,-2.079120029158112,True,red,yellow,False,False,False
+106,Serilingampally,20.062343353707377,yellow,-1.1642127132808069,medium,population_only,18.49,17.47,19.56,green,18.27,17.13,19.49,green,17.96,16.63,19.38,green,-2.102343353707376,True,yellow,green,False,False,False
+4,Meerpet H.B Colony,17.05792916128591,green,-1.437493334299398,medium,population_only,15.42,14.57,16.31,green,15.2,14.25,16.21,green,14.87,13.77,16.05,green,-2.187929161285909,False,green,green,False,False,False
+61,Attapur,52.62897178556625,red,-0.4467297140393914,medium,population_only,51.01,48.22,53.95,yellow,50.78,47.62,54.14,yellow,50.44,46.73,54.42,yellow,-2.1889717855662525,True,red,yellow,False,False,False
+112,Ramachandrapuram,35.53806010277442,yellow,-0.6950680927427123,medium,population_only,33.85,31.99,35.8,yellow,33.61,31.52,35.84,yellow,33.26,30.82,35.89,yellow,-2.2780601027744254,False,yellow,yellow,False,False,False
+65,Karwan,51.13889312976245,red,-0.5500300926199667,high,full,49.2,47.51,50.96,yellow,48.93,47.01,50.93,yellow,48.53,46.27,50.9,yellow,-2.60889312976245,True,red,yellow,False,False,False
+136,Neredmet,26.47244201687729,yellow,-1.1940273826135988,medium,population_only,24.34,23.01,25.75,green,24.05,22.55,25.65,green,23.63,21.88,25.5,green,-2.8424420168772926,True,yellow,green,False,False,False
+42,Barkas,26.331065316798163,yellow,-1.258207265745745,high,full,24.1,23.27,24.97,green,23.8,22.86,24.78,green,23.36,22.26,24.5,green,-2.971065316798164,True,yellow,green,False,False,False
+142,Addagutta,17.955381103962143,green,-1.943585749924028,high,full,15.66,15.12,16.22,green,15.36,14.75,15.99,green,14.91,14.22,15.65,green,-3.045381103962143,False,green,green,False,False,False
+110,Chandanagar,45.39580629905416,red,-0.7299899718887063,medium,population_only,43.13,40.77,45.62,yellow,42.82,40.15,45.65,yellow,42.35,39.23,45.7,yellow,-3.0458062990541563,True,red,yellow,False,False,False
+75,Red Hills,44.93343295987682,red,-0.7563388253390277,high,full,42.61,41.14,44.13,yellow,42.29,40.62,44.02,yellow,41.81,39.86,43.85,yellow,-3.123432959876816,True,red,yellow,False,False,False
+57,Suleman Nagar,76.99644479285818,red,-0.4480313604288981,high,full,74.62,72.04,77.28,red,74.28,71.36,77.32,red,73.78,70.35,77.38,red,-3.216444792858184,False,red,red,False,False,False
+41,Kanchanbagh,27.99700389247989,yellow,-1.2896429266644192,high,full,25.57,24.69,26.49,green,25.24,24.25,26.28,green,24.76,23.6,25.97,green,-3.237003892479887,True,yellow,green,False,False,False
+92,Venkateshwara Colony,46.39473156432174,red,-0.7693357220709376,high,full,43.96,42.44,45.53,yellow,43.62,41.9,45.41,yellow,43.12,41.11,45.22,yellow,-3.2747315643217405,True,red,yellow,False,False,False
+45,Jangammet,88.0909551475325,red,-0.4180408225438882,high,full,85.55,82.6,88.6,red,85.19,81.84,88.67,red,84.66,80.72,88.78,red,-3.430955147532501,False,red,red,False,False,False
+26,Old Malakpet,48.20784105626365,red,-0.8355527248936624,high,full,45.46,43.89,47.09,yellow,45.08,43.31,46.93,yellow,44.52,42.45,46.69,yellow,-3.6878410562636494,True,red,yellow,False,False,False
+68,Tolichowki,41.52822852989487,red,-0.9801644834101492,high,full,38.77,37.43,40.15,yellow,38.39,36.87,39.96,yellow,37.83,36.06,39.67,yellow,-3.6982285298948696,True,red,yellow,False,False,False
+144,Mettuguda,21.6562832458312,yellow,-1.9834249709241272,high,full,18.84,18.18,19.51,green,18.46,17.73,19.22,green,17.92,17.08,18.8,green,-3.736283245831199,True,yellow,green,False,False,False
+105,Gachibowli,33.89004956015616,yellow,-1.335300581870413,medium,population_only,30.86,29.16,32.64,yellow,30.45,28.54,32.47,yellow,29.84,27.64,32.21,green,-4.0500495601561575,True,yellow,yellow,True,False,False
+91,Khairatabad,36.111745370154594,yellow,-1.3989996173421488,high,full,32.73,31.6,33.9,yellow,32.28,31.0,33.6,yellow,31.6,30.12,33.15,yellow,-4.511745370154593,False,yellow,yellow,False,False,False
+107,Madhapur,43.47608434217619,red,-1.2053323744009423,medium,population_only,39.95,37.76,42.26,yellow,39.47,37.0,42.09,yellow,38.76,35.9,41.83,yellow,-4.716084342176195,True,red,yellow,False,False,False
+60,Rajendra Nagar,73.65513744553293,red,-0.9390819674715656,medium,population_only,68.96,65.18,72.94,red,68.31,64.05,72.84,red,67.35,62.39,72.69,red,-6.305137445532935,False,red,red,False,False,False
+66,Langar Houz,59.1014035978671,red,-1.2974259297015354,high,full,53.95,52.08,55.89,yellow,53.26,51.15,55.44,yellow,52.23,49.79,54.78,yellow,-6.871403597867101,True,red,yellow,False,False,False
+108,Miyapur,44.036763958648685,red,-1.8452321495441515,medium,population_only,38.68,36.55,40.92,yellow,37.97,35.59,40.5,yellow,36.93,34.19,39.86,yellow,-7.106763958648685,True,red,yellow,False,False,False
+69,Nanal Nagar,39.61177580373081,yellow,-2.613632813527113,high,full,32.95,31.8,34.14,yellow,32.09,30.82,33.42,yellow,30.85,29.4,32.37,yellow,-8.761775803730806,False,yellow,yellow,False,False,False

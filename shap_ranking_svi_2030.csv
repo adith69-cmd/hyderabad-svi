@@ -1,0 +1,15 @@
+feature,mean_abs_attribution
+census2011_non_worker_rate,7.775309761659237
+census2011_child_share,7.036292257977712
+census2011_sc_st_share,2.918820490291818
+census2011_marginal_worker_share,2.16633381310639
+census2011_literacy_rate,1.8484677354594772
+centroid_lat,1.3846604569649374
+ward_area_km2,0.9155575452398068
+pressure_zscore,0.7523292314519938
+pop_density_log,0.41338098710294713
+worldpop_annualized_growth_2015_2018_pct,0.39566369148256125
+dist_center_km,0.3496548589283714
+centroid_lon,0.264449221307475
+amenity_log,0.21612535993786924
+census2011_population_verified,0.17471710997433182

@@ -1,0 +1,19 @@
+Local permutation attribution
+=============================
+
+For each ward and each feature:
+  1. Take the ward's standardized feature vector
+  2. Replace feature j with the population median (also standardized)
+  3. Re-predict with the trained surrogate GBM
+  4. Attribution = base_prediction - perturbed_prediction
+
+Sign convention: positive attribution = feature pushes ward's SVI up.
+
+This is a local attribution method functionally similar to SHAP's
+single-feature baseline approach, computed without the shap library
+because the Windows Application Control policy on the build machine
+blocks scipy.cluster's compiled DLL (a dependency of shap).
+
+The method is transparent, reproducible, and identical in output
+format to SHAP values. For TreeExplainer-equivalent exact SHAP
+values, install shap on a machine without the DLL policy.

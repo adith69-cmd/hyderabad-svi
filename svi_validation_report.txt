@@ -1,0 +1,15 @@
+SVI 2011 Validation Report
+============================================================
+
+N wards: 150
+Explained variance PC1: 0.5253
+Explained variance PC2: 0.1969
+Cumulative PC1+PC2:     0.7222
+
+Split-half loading stability (100 random 75/75 splits):
+  mean r = 0.9653
+  min  r = 0.7501
+
+Leave-one-out SVI score deviation:
+  mean |delta| = 0.25 points on 0-100 scale
+  max  |delta| = 12.35 points on 0-100 scale

@@ -1,0 +1,11 @@
+======================================================================
+Surrogate GBM — 5-fold cross-validated
+======================================================================
+Features: 14
+Wards:    150
+
+svi_2011      CV R2 =  0.930   CV MAE =   4.32
+svi_2030      CV R2 =  0.927   CV MAE =   4.64
+
+Saved surrogate_models.pkl
+CV R2 range: 0.927 to 0.930
